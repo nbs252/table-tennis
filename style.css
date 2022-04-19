@@ -1,0 +1,35 @@
+.heading h3{
+display: inline;
+}
+
+.heading{
+width: 100%;
+text-align: left;
+}
+
+#status{
+font-size: 22px;
+}
+
+.heading button{
+float: right;
+border: 1px solid white;
+}
+
+.modal-dialog{
+width: 90%;
+}
+
+.modal-body{
+font-size: 20px;
+}
+
+.footer{
+bottom: 0;
+position: fixed;
+background-color: grey;
+color: white;
+line-height: 3;
+text-align: center;
+width: 100%;
+}
